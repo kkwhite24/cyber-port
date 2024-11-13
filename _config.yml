@@ -1,11 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title: Kyla White
+email: Kylawhit23@gmail.com
+url: https://kkwhit24.github.io/cyber-port
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
+meta_author: White Kyla
 
 # Google webmaster tools
 google_verify:
@@ -25,9 +25,9 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
+  primary: ff8fab #80B3FF
   primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
+  secondary: ff5400 #FD6E8A
   secondary-dark: 001846 #A2122F
 
 # Footer settings
